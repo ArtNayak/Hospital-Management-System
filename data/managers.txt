@@ -1,0 +1,5 @@
+M28384|maneet|pbkdf2$78ee4d68e4b03814ef0be1f31d4052af$bd86508b62d21d1ac139bb237a71209aad38777e94ae0839b9c01b178f930404|Maneet|Mehta|Male|15/05/2004|21|maneet@gmail.com|0123456789|25 Avenue Street|57000|KL
+M50001|oliviaa|pbkdf2$d8edff47d02523fda8c5d7f8c922c087$c8d148763cede0e9c39fbd6bdfaa0d1fcdb4e13ba186f76f9c184b113d776f23|Olivia|Anderson|Female|08/08/1992|31|oliviaa@gmail.com|01234568120|12 Cedar Street|50100|KL
+M50002|ethanb|pbkdf2$7ba1cb9a938c55dadf3a89459615e1b4$ee278cfe9a3481af83ef99cc022ba29ee56edf8d355fc617400be12c9201f614|Ethan|Brown|Male|22/03/1991|32|ethanb@hotmail.com|01234568121|34 Oak Road|50200|KL
+M50003|chloec|pbkdf2$1ae5d43e437cafb2e2964e00b1423a4b$8357184a178861a368a0d1084c07d140001116db2ac06d93214c7a2e2b859e7e|Chloe|Carter|Female|15/06/1990|33|chloec@gmail.com|01234568122|56 Pine Avenue|50300|KL
+M50004|noahd|pbkdf2$2e6445de69cb6aefecc2c8a5e4f4317d$3d7397abb0f8766185ee99dac894b450e24bd00bae1138d7b0ca7fe2dfb07fdd|Noah|Davis|Male|10/11/1989|34|noahd@outlook.com|01234568123|78 Maple Lane|50400|KL
